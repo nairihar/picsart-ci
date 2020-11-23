@@ -1,0 +1,23 @@
+{
+  "name": "picsart-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nairihar/picsart-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nairihar/picsart-ci/issues"
+  },
+  "homepage": "https://github.com/nairihar/picsart-ci#readme",
+  "dependencies": {
+    "mocha": "^8.2.1"
+  }
+}
